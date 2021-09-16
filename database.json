@@ -156,7 +156,7 @@
       "id": 1,
       "name": "Laptop Acer Spin 3 SP314-51-36JE (NX.GUWSV.005) (14 inch FHD/i3-7130U/4GB/1TB HDD/HD 620/Win10/1.7 kg)",
       "price": 13899000,
-      "oldPrice": "",
+      "oldPrice": null,
       "trademark":"Acer",
       "sku":"1800172",
       "quantity": 16,
