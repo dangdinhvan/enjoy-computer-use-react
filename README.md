@@ -1,80 +1,70 @@
-# Fake REST API NodeJS
+# Getting Started with Create React App
 
-Get a full fake REST API with **zero coding** in **less than 30 seconds** ([NodeJS](https://nodejs.org/en/) + [JSON Server](https://github.com/typicode/json-server) + [JSON Webtoken](https://github.com/auth0/node-jsonwebtoken)).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Support JWT Bearer authentication:
+## Available Scripts
 
-- Register user with username & password or email & password.
+In the project directory, you can run:
 
-- Login with registered users.
+### `npm start`
 
-- Protect API by resource and request methods.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Support upload files (beta).
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-*[Vietnamese documents](https://techmaster.vn/posts/35578/tao-1-rest-api-phuc-vu-cho-muc-dich-hoc-tap-trong-30-giay)*
+### `npm test`
 
-## Getting started
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Clone this repository
+### `npm run build`
 
-```bash
-git clone https://github.com/robinhuy/fake-rest-api-nodejs.git
-```
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-(or fork to your account and clone the forked repo)
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-Install dependencies
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-```bash
-cd fake-rest-api-nodejs
-npm install
-```
+### `npm run eject`
 
-Run server
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-```bash
-npm start
-```
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-or
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-```bash
-npm run dev
-```
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-The server will run on `http://localhost:3000`.
-Public API: `http://localhost:3000/products` (GET method).
+## Learn More
 
-## Modify your data
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-All the data was placed in `database.json`. Edit it to suit your purpose.
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-You can use [https://mockaroo.com/](https://mockaroo.com/) to mock data, and publish your code to [https://heroku.com/](https://heroku.com/) to get a Public API.
+### Code Splitting
 
-**Note**:
-- To protect resources, decleare resources and protected methods in `database.json`:
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-```
-    "protected_resources": {
-        "users": ["GET", "POST", "PUT", "PATCH", "DELETE"],
-        "products": ["POST", "PUT", "PATCH", "DELETE"]
-    }
-```
+### Analyzing the Bundle Size
 
-- User can login by API `/login`, method `POST`, using `username & password` or `email & password` in resource `users`. Body request like this:
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-```
-    {
-        "email": "admin",
-        "password": "admin"
-    }
-```
+### Making a Progressive Web App
 
-- Change default port, database file, jwt secret or jwt token expires in `config.json`.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-## Access & modify API
+### Advanced Configuration
 
-Please view detailed document in [https://github.com/typicode/json-server/blob/master/README.md#table-of-contents](https://github.com/typicode/json-server/blob/master/README.md#table-of-contents)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-If you want to change logic of authentication or add more feature, please edit file `server.js`.
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
