@@ -159,7 +159,7 @@
       "oldPrice": null,
       "trademark": "ACER",
       "sku": "1800172",
-      "quantity": 16,
+      "storageQuantity": 16,
       "giftImg": "/img/bag-laptop-1.jpg",
       "giftName": "Túi đựng laptop 15\"",
       "thumbnails": [
@@ -215,7 +215,7 @@
       "oldPrice": 56000000,
       "trademark": "ASUS",
       "sku": "1800172",
-      "quantity": 9,
+      "storageQuantity": 9,
       "giftImg": "/img/balo-laptop.webp",
       "giftName": "Balo Asus",
       "thumbnails": [
@@ -274,7 +274,7 @@
       "oldPrice": 23500000,
       "trademark": "DELL",
       "sku": "1820172",
-      "quantity": 10,
+      "storageQuantity": 10,
       "giftImg": "",
       "giftName": "",
       "thumbnails": [
@@ -332,7 +332,7 @@
       "oldPrice": 17500000,
       "trademark": "ASUS",
       "sku": "1800772",
-      "quantity": 9,
+      "storageQuantity": 9,
       "giftImg": "/img/balo-laptop.webp",
       "giftName": "Balo Asus",
       "thumbnails": [
@@ -389,7 +389,7 @@
       "oldPrice": 56000000,
       "trademark": "ASUS",
       "sku": "1800172",
-      "quantity": 9,
+      "storageQuantity": 9,
       "giftImg": "/img/balo-laptop.webp",
       "thumbnails": [
         "https://lh3.googleusercontent.com/o6ALRNPERVwq8ZIHcuLNNgVZJ_VtrOTExT4S1BQ6Uiw5cOKgZMnVH_mBdgH1c_KzLh6kI2wlgTeGIaq3gRc",
@@ -447,7 +447,7 @@
       "oldPrice": 17500000,
       "trademark": "ASUS",
       "sku": "1800772",
-      "quantity": 9,
+      "storageQuantity": 9,
       "giftImg": "/img/balo-laptop.webp",
       "giftName": "Balo Asus",
       "thumbnails": [
@@ -504,7 +504,7 @@
       "oldPrice": 36000000,
       "trademark": "MSI",
       "sku": "1825122",
-      "quantity": 10,
+      "storageQuantity": 10,
       "giftImg": "/img/bag-laptop-1.jpg",
       "giftName": "Túi đựng laptop 15\"",
       "thumbnails": [
@@ -561,7 +561,7 @@
       "oldPrice": 23500000,
       "trademark": "DELL",
       "sku": "1820172",
-      "quantity": 10,
+      "storageQuantity": 10,
       "giftImg": "",
       "giftName": "",
       "thumbnails": [
@@ -619,7 +619,7 @@
       "oldPrice": 23500000,
       "trademark": "DELL",
       "sku": "1820172",
-      "quantity": 10,
+      "storageQuantity": 10,
       "giftImg": "",
       "giftName": "",
       "thumbnails": [
@@ -677,7 +677,7 @@
       "oldPrice": null,
       "trademark": "ACER",
       "sku": "1800172",
-      "quantity": 16,
+      "storageQuantity": 16,
       "giftImg": "/img/bag-laptop-1.jpg",
       "giftName": "Túi đựng laptop 15\"",
       "thumbnails": [
@@ -733,7 +733,7 @@
       "oldPrice": null,
       "trademark": "ACER",
       "sku": "1800172",
-      "quantity": 16,
+      "storageQuantity": 16,
       "giftImg": "/img/bag-laptop-1.jpg",
       "giftName": "Túi đựng laptop 15\"",
       "thumbnails": [
@@ -789,7 +789,7 @@
       "oldPrice": 56000000,
       "trademark": "ASUS",
       "sku": "1800172",
-      "quantity": 9,
+      "storageQuantity": 9,
       "giftImg": "/img/balo-laptop.webp",
       "giftName": "Balo Asus",
       "thumbnails": [
@@ -848,7 +848,7 @@
       "oldPrice": 23500000,
       "trademark": "DELL",
       "sku": "1820172",
-      "quantity": 10,
+      "storageQuantity": 10,
       "giftImg": "",
       "giftName": "",
       "thumbnails": [
@@ -906,7 +906,7 @@
       "oldPrice": 17500000,
       "trademark": "ASUS",
       "sku": "1800772",
-      "quantity": 9,
+      "storageQuantity": 9,
       "giftImg": "/img/balo-laptop.webp",
       "giftName": "Balo Asus",
       "thumbnails": [
@@ -963,7 +963,7 @@
       "oldPrice": 56000000,
       "trademark": "ASUS",
       "sku": "1800172",
-      "quantity": 9,
+      "storageQuantity": 9,
       "giftImg": "/img/balo-laptop.webp",
       "giftName": "Balo Asus",
       "thumbnails": [
@@ -1022,7 +1022,7 @@
       "oldPrice": 17500000,
       "trademark": "ASUS",
       "sku": "1800772",
-      "quantity": 9,
+      "storageQuantity": 9,
       "giftImg": "/img/balo-laptop.webp",
       "giftName": "Balo Asus",
       "thumbnails": [
@@ -1079,7 +1079,7 @@
       "oldPrice": 23500000,
       "trademark": "DELL",
       "sku": "1820172",
-      "quantity": 10,
+      "storageQuantity": 10,
       "giftImg": "",
       "giftName": "",
       "thumbnails": [
@@ -1137,7 +1137,7 @@
       "oldPrice": 23500000,
       "trademark": "DELL",
       "sku": "1820172",
-      "quantity": 10,
+      "storageQuantity": 10,
       "giftImg": "",
       "giftName": "",
       "thumbnails": [
@@ -1195,7 +1195,7 @@
       "oldPrice": 23500000,
       "trademark": "DELL",
       "sku": "1820172",
-      "quantity": 10,
+      "storageQuantity": 10,
       "giftImg": "",
       "giftName": "",
       "thumbnails": [
@@ -1253,7 +1253,7 @@
       "oldPrice": null,
       "trademark": "ACER",
       "sku": "1800172",
-      "quantity": 16,
+      "storageQuantity": 16,
       "giftImg": "/img/bag-laptop-1.jpg",
       "giftName": "Túi đựng laptop 15\"",
       "thumbnails": [
@@ -1309,7 +1309,7 @@
       "oldPrice": 23500000,
       "trademark": "DELL",
       "sku": "1820172",
-      "quantity": 10,
+      "storageQuantity": 10,
       "giftImg": "",
       "giftName": "",
       "thumbnails": [
@@ -1367,7 +1367,7 @@
       "oldPrice": 36000000,
       "trademark": "MSI",
       "sku": "1825122",
-      "quantity": 10,
+      "storageQuantity": 10,
       "giftImg": "/img/bag-laptop-1.jpg",
       "giftName": "Túi đựng laptop 15\"",
       "thumbnails": [
@@ -1424,7 +1424,7 @@
       "oldPrice": 36000000,
       "trademark": "MSI",
       "sku": "1825122",
-      "quantity": 10,
+      "storageQuantity": 10,
       "giftImg": "/img/bag-laptop-1.jpg",
       "giftName": "Túi đựng laptop 15\"",
       "thumbnails": [
@@ -1481,7 +1481,7 @@
       "oldPrice": null,
       "trademark": "ACER",
       "sku": "1800172",
-      "quantity": 16,
+      "storageQuantity": 16,
       "giftImg": "/img/bag-laptop-1.jpg",
       "giftName": "Túi đựng laptop 15\"",
       "thumbnails": [
@@ -1537,7 +1537,7 @@
       "oldPrice": 56000000,
       "trademark": "ASUS",
       "sku": "1800172",
-      "quantity": 9,
+      "storageQuantity": 9,
       "giftImg": "/img/balo-laptop.webp",
       "giftName": "Balo Asus",
       "thumbnails": [
@@ -1596,7 +1596,7 @@
       "oldPrice": 23500000,
       "trademark": "DELL",
       "sku": "1820172",
-      "quantity": 10,
+      "storageQuantity": 10,
       "giftImg": "",
       "giftName": "",
       "thumbnails": [
@@ -1654,7 +1654,7 @@
       "oldPrice": 17500000,
       "trademark": "ASUS",
       "sku": "1800772",
-      "quantity": 9,
+      "storageQuantity": 9,
       "giftImg": "/img/balo-laptop.webp",
       "giftName": "Balo Asus",
       "thumbnails": [
@@ -1711,7 +1711,7 @@
       "oldPrice": 56000000,
       "trademark": "ASUS",
       "sku": "1800172",
-      "quantity": 9,
+      "storageQuantity": 9,
       "giftImg": "/img/balo-laptop.webp",
       "giftName": "Balo Asus",
       "thumbnails": [
@@ -1770,7 +1770,7 @@
       "oldPrice": 17500000,
       "trademark": "ASUS",
       "sku": "1800772",
-      "quantity": 9,
+      "storageQuantity": 9,
       "giftImg": "/img/balo-laptop.webp",
       "giftName": "Balo Asus",
       "thumbnails": [
@@ -1827,7 +1827,7 @@
       "oldPrice": 36000000,
       "trademark": "MSI",
       "sku": "1825122",
-      "quantity": 10,
+      "storageQuantity": 10,
       "giftImg": "/img/bag-laptop-1.jpg",
       "giftName": "Túi đựng laptop 15\"",
       "thumbnails": [
