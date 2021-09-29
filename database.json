@@ -1879,13 +1879,27 @@
     }
   ],
   "keyword": [
-    {
-      "keyword": "asus",
-      "relatedKeywords": ["asus rog", "asus x515ea", "asus 8gb"]
-    },
-    {
-      "keyword": "ram",
-      "relatedKeywords": ["ram 4gb", "ram 8gb", "ram 16gb", "ram kingston"]
-    }
+    "laptop asus",
+    "laptop dell",
+    "laptop msi",
+    "laptop acer",
+    "laptop hp",
+    "laptop lenovo",
+    "asus rog",
+    "asus tuf",
+    "asus x515ea",
+    "asus strix",
+    "dell vostro",
+    "dell ispiron",
+    "asus rog zephyus",
+    "asus rog cybertex",
+    "msi geforce",
+    "ram 8gb",
+    "ram 4gb",
+    "ram 16gb",
+    "ram kingston",
+    "ram colorful",
+    "acer nistro",
+    "acer spin"
   ]
 }
