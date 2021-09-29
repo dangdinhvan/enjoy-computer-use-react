@@ -1877,5 +1877,15 @@
       "createdAt": 1614098400000,
       "modifiedAt": "2021-04-16"
     }
+  ],
+  "keyword": [
+    {
+      "keyword": "asus",
+      "relatedKeywords": ["asus rog", "asus x515ea", "asus 8gb"]
+    },
+    {
+      "keyword": "ram",
+      "relatedKeywords": ["ram 4gb", "ram 8gb", "ram 16gb", "ram kingston"]
+    }
   ]
 }
