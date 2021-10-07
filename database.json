@@ -13,7 +13,8 @@
       "birthday": "1994-03-23",
       "status": true,
       "createdAt": 1609483221000,
-      "modifiedAt": 1609483221000
+      "modifiedAt": 1609483221000,
+      "avatarImg":"https://cdnimg.vietnamplus.vn/uploaded/izhsa/2018_05_26/mohamed_salah_liver.jpg"
     },
     {
       "id": 2,
